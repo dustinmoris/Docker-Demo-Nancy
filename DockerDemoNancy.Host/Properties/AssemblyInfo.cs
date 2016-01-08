@@ -1,16 +1,15 @@
 ﻿using System.Reflection;
-using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DockerDemo.Nancy")]
+[assembly: AssemblyTitle("DockerDemoNancy.Host")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Gamesys Ltd")]
-[assembly: AssemblyProduct("DockerDemo.Nancy")]
-[assembly: AssemblyCopyright("Copyright © Gamesys Ltd 2015")]
+[assembly: AssemblyProduct("DockerDemoNancy.Host")]
+[assembly: AssemblyCopyright("Copyright © Dustin Moris Gorski 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("60715f4a-df3e-4abb-b223-4726314e7da8")]
+[assembly: Guid("affbc967-2039-4e02-be07-bfd21a59ebe6")]
 
 // Version information for an assembly consists of the following four values:
 //

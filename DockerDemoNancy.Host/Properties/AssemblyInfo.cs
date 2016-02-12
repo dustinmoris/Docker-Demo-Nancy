@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("DockerDemoNancy.Host")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Gamesys Ltd")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("DockerDemoNancy.Host")]
 [assembly: AssemblyCopyright("Copyright © Dustin Moris Gorski 2016")]
 [assembly: AssemblyTrademark("")]
